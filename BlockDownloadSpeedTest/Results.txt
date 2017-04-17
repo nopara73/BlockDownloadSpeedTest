@@ -1,0 +1,39 @@
+﻿One by one...
+Download duration: 08:21
+(Cafe, Taiwan, Breans Bar) Speed kbps: 234 215 249
+(Mobile, Taiwan, FarEastern) Speed kbps: 223
+
+2 parallel...
+Download duration: 06:55
+(Cafe, Taiwan, Breans Bar) Speed kbps: 283 345 502
+(Mobile, Taiwan, FarEastern) Speed kbps: 223
+
+3 parallel...
+Download duration: 05:14
+(Cafe, Taiwan, Breans Bar)Speed kbps: 374 375 588
+(Mobile, Taiwan, FarEastern) Speed kbps: 223
+
+4 parallel...
+Download duration: 03:47
+(Cafe, Taiwan, Breans Bar) Speed kbps: 517 463 459
+(Mobile, Taiwan, FarEastern) Speed kbps: 204
+
+5 parallel...
+Download duration: 03:40
+(Cafe, Taiwan, Breans Bar) Speed kbps: 532 493 550
+(Mobile, Taiwan, FarEastern) Speed kbps: 275
+
+7 parallel...
+Download duration: 03:30
+(Cafe, Taiwan, Breans Bar) Speed kbps: 559 569 618
+(Mobile, Taiwan, FarEastern) Speed kbps: 385
+
+10 parallel...
+Download duration: 03:29
+(Cafe, Taiwan, Breans Bar) Speed kbps: 562 651 507
+(Mobile, Taiwan, FarEastern Speed kbps: 502
+
+21 parallel...
+Download duration: 03:04
+(Cafe, Taiwan, Breans Bar) Speed kbps: 639 615 736
+(Mobile, Taiwan, FarEastern) Speed kbps: 615
